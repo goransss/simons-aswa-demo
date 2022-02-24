@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World!
+          Hello Björn!!
         </a>
         {message && <p>{message}</p>}
       </header>
